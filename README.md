@@ -6,7 +6,7 @@
 
 <img src = "Dashboard 3.PNG">
 
-<img src = "Dashboard 4.PNG">
+<img src = "Dashboard 4.png">
 
 <img src = "Dashboard 5.PNG">
 
