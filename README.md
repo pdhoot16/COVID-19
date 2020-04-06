@@ -6,10 +6,10 @@
 
 <img src = "Dashboard 3.PNG">
 
-<img src = "Dashboard 4.png">
+<img src = "Dashboard 2.PNG">
 
 <img src = "Dashboard 5.PNG">
 
 <img src = "Dashboard 6.PNG">
 
-<img src = "Dashboard 2.PNG">
+<img src = "Dashboard 4.png">
